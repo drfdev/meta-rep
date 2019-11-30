@@ -1,5 +1,5 @@
 # meta-rep
 Meta-repository, for navigate other repositories
 
-The tag **broken** means that the repository is abandoned.
+All abandoned projects maked with tag **broken**.
 And project not properly yet.
