@@ -21,6 +21,7 @@ And project not properly yet.
 * bcstest
 * Mongo-Spring
 * linux-cmd
+* spring-aspect
 
 **Broken/abandoned:**
 * broken-legs-js
