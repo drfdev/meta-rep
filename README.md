@@ -21,6 +21,7 @@ And project not properly yet.
 * Mongo-Spring
 * linux-cmd
 * spring-aspect
+* ignite-demo 
 
 **Broken/abandoned:**
 * broken-legs-js
