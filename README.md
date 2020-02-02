@@ -9,6 +9,7 @@ And project not properly yet.
 **In progress:**
 * docker-demo
 * my-pokemon
+* kafka-demo
 
 **Future:**
 * asible-demo
