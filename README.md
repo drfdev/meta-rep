@@ -22,6 +22,7 @@ And project not properly yet.
 * linux-cmd
 * spring-aspect
 * ignite-demo 
+* glyph-demo
 
 **Broken/abandoned:**
 * broken-legs-js
