@@ -30,3 +30,6 @@ And project not properly yet.
 * tetris-java
 * tetris-java-2
 * chess-kotlin
+
+**Just for me:**
+* l2db-parse-jsoup
