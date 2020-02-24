@@ -24,6 +24,7 @@ And project not properly yet.
 * spring-aspect
 * ignite-demo 
 * glyph-demo
+* javapoet-demo 
 
 **Broken/abandoned:**
 * broken-legs-js
