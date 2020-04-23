@@ -10,6 +10,7 @@ And project not properly yet.
 * docker-demo
 * my-pokemon
 * kafka-demo
+
 ... and other
 
 **Future:**
