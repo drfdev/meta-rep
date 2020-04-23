@@ -10,6 +10,7 @@ And project not properly yet.
 * docker-demo
 * my-pokemon
 * kafka-demo
+... and other
 
 **Future:**
 * asible-demo
@@ -25,6 +26,7 @@ And project not properly yet.
 * ignite-demo 
 * glyph-demo
 * javapoet-demo 
+* java14-features-test
 
 **Broken/abandoned:**
 * broken-legs-js
