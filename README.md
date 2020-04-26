@@ -28,6 +28,7 @@ And project not properly yet.
 * glyph-demo
 * javapoet-demo 
 * java14-features-test
+* sort-test-demo
 
 **Broken/abandoned:**
 * broken-legs-js
