@@ -7,8 +7,6 @@ And project not properly yet.
 ---
 
 **In progress:**
-* docker-demo
-* my-pokemon
 * kafka-demo
 
 ... and other
@@ -29,6 +27,7 @@ And project not properly yet.
 * javapoet-demo 
 * java14-features-test
 * sort-test-demo
+* docker-demo
 
 **Broken/abandoned:**
 * broken-legs-js
