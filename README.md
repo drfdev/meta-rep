@@ -7,13 +7,14 @@ And project not properly yet.
 ---
 
 **In progress:**
-* kafka-demo
+* magic-box
 
 ... and other
 
 **Future:**
 * asible-demo
 * java-command-line-arguments
+* kafka-demo
 
 **Finished:**
 * demopoi
@@ -39,3 +40,4 @@ And project not properly yet.
 * l2db-parse-jsoup
 * grpc-proto-demo 
 * awaitility-demo
+* glove-of-midas
