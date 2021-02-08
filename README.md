@@ -7,7 +7,7 @@ And project not properly yet.
 ---
 
 **In progress:**
-* magic-box
+* tetris-3
 
 ... and other
 
@@ -41,3 +41,4 @@ And project not properly yet.
 * grpc-proto-demo 
 * awaitility-demo
 * glove-of-midas
+* magic-box
