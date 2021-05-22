@@ -8,6 +8,7 @@ And project not properly yet.
 
 **In progress:**
 * tetris-3
+* my-java15-notes-ru
 
 ... and other
 
